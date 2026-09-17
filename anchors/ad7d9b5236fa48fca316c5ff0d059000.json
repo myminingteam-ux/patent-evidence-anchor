@@ -1,0 +1,8 @@
+{
+  "checkpoint_id": "ad7d9b5236fa48fca316c5ff0d059000",
+  "evidence_commit_sha": "cd89dcbd9b68f07b9aab12a92fc018f6aa3d88d0",
+  "manifest_sha256": "8d291c4e8aa0814ab34a211aeacecf0e8dce0deb9c82201140055073a8921315",
+  "ots_receipt_sha256": "074e4bef6205d11eb145bf12318e29ed42af0b8e7ba433638fe37e60d9c6532a",
+  "schema": "patent-evidence-anchor/v1",
+  "source_sha256": "7f137cc090ae4e3e9a24cc52e05f0ac1c74e309cc31ee78a4be72c8d25685bfa"
+}
